@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="9.4s"
+		durationms="9396"
+		type="root"
+		rid="179ce36f54038992"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="SadanandG"
+		rxversion="9.3.2.0"
+		host="SADG-VM-W10"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="3/15/2021 3:34:36 AM"
+		timestampiso="2021-03-15T07:34:36"
+		endtime="3/15/2021 3:34:45 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Employee_Status_Tab">
+		<detail>
+			Employee_Status_Tab
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.265"
+			timeRelativeToTestModuleStartTime="00:04.265"
+			timeWallClock="03:34:40"
+			time="00:04.265"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Activeclick' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Active']"
+				itempath=".//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Active']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.Activeclick"
+				id="2c90fa00c4e346b988ab6b975cfeaff2"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.038"
+			timeRelativeToTestModuleStartTime="00:06.038"
+			timeWallClock="03:34:42"
+			time="00:06.038"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeContains (InnerText&gt;'Employees  - Active ') on item 'ApplicationUnderTest.CssVnm4clReactTabs.EmployeesActive'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Active']"
+				itempath="?/?/h4[@innertext>'Employees  - Active']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesActive"
+				id="0ba76efb49294597a665e83db7156fbf"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.167"
+			timeRelativeToTestModuleStartTime="00:06.167"
+			timeWallClock="03:34:42"
+			time="00:06.167"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesActive' does contain the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Active']"
+				itempath="?/?/h4[@innertext>'Employees  - Active']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesActive"
+				id="0ba76efb49294597a665e83db7156fbf"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="87"
+				loglvl="Success"
+				itemindex="1">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.276"
+			timeRelativeToTestModuleStartTime="00:06.276"
+			timeWallClock="03:34:42"
+			time="00:06.276"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.LeaveOfAbsenceclick' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Leave of absence']"
+				itempath=".//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Leave of absence']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.LeaveOfAbsenceclick"
+				id="38f7593e9dd14d769856df3ee9769c30"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.835"
+			timeRelativeToTestModuleStartTime="00:06.835"
+			timeWallClock="03:34:43"
+			time="00:06.835"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeContains (InnerText&gt;'Employees  - Leave of absence') on item 'ApplicationUnderTest.CssVnm4clReactTabs.EmployeesLeaveOfAbsence'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Leave of absence']"
+				itempath="?/?/h4[@innertext>'Employees  - Leave of absence']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesLeaveOfAbsence"
+				id="8367c9c4b2e94572ab858500787e668a"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.959"
+			timeRelativeToTestModuleStartTime="00:06.959"
+			timeWallClock="03:34:43"
+			time="00:06.959"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesLeaveOfAbsence' does contain the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Leave of absence']"
+				itempath="?/?/h4[@innertext>'Employees  - Leave of absence']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesLeaveOfAbsence"
+				id="8367c9c4b2e94572ab858500787e668a"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="95"
+				loglvl="Success"
+				itemindex="3">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.070"
+			timeRelativeToTestModuleStartTime="00:07.070"
+			timeWallClock="03:34:43"
+			time="00:07.070"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.OnStrikeclick' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]//ul/li[@innertext>'On strike']"
+				itempath=".//div[#'app']/div[2]/div[3]//ul/li[@innertext>'On strike']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.OnStrikeclick"
+				id="ad40cbc146ba43a3b38fdd8d01e5ab1e"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.632"
+			timeRelativeToTestModuleStartTime="00:07.632"
+			timeWallClock="03:34:44"
+			time="00:07.632"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeContains (InnerText&gt;'Employees  - On strike') on item 'ApplicationUnderTest.CssVnm4clReactTabs.EmployeesOnStrike'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - On strike']"
+				itempath="?/?/h4[@innertext>'Employees  - On strike']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesOnStrike"
+				id="8f42b9a0b79b492cb0248ece796fca84"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.749"
+			timeRelativeToTestModuleStartTime="00:07.749"
+			timeWallClock="03:34:44"
+			time="00:07.749"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesOnStrike' does contain the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - On strike']"
+				itempath="?/?/h4[@innertext>'Employees  - On strike']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesOnStrike"
+				id="8f42b9a0b79b492cb0248ece796fca84"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="103"
+				loglvl="Success"
+				itemindex="5">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.857"
+			timeRelativeToTestModuleStartTime="00:07.857"
+			timeWallClock="03:34:44"
+			time="00:07.857"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Terminatedclick' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Terminated']"
+				itempath=".//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Terminated']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.Terminatedclick"
+				id="fe4d6f8b6cb04ce7832de1c84f684fdf"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.396"
+			timeRelativeToTestModuleStartTime="00:08.396"
+			timeWallClock="03:34:44"
+			time="00:08.396"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeContains (InnerText&gt;'Employees  - Terminated') on item 'ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTerminated'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Terminated']"
+				itempath="?/?/h4[@innertext>'Employees  - Terminated']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTerminated"
+				id="08fea008a25f4b1c8fbe7ce9f036007a"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.506"
+			timeRelativeToTestModuleStartTime="00:08.506"
+			timeWallClock="03:34:44"
+			time="00:08.506"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTerminated' does contain the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Terminated']"
+				itempath="?/?/h4[@innertext>'Employees  - Terminated']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTerminated"
+				id="08fea008a25f4b1c8fbe7ce9f036007a"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="111"
+				loglvl="Success"
+				itemindex="7">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.613"
+			timeRelativeToTestModuleStartTime="00:08.613"
+			timeWallClock="03:34:45"
+			time="00:08.613"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Totalclick' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Total']"
+				itempath=".//div[#'app']/div[2]/div[3]//ul/li[@innertext>'Total']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.Totalclick"
+				id="c1799bb8a5684374b97c7dad75251455"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.161"
+			timeRelativeToTestModuleStartTime="00:09.161"
+			timeWallClock="03:34:45"
+			time="00:09.161"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeContains (InnerText&gt;'Employees  - Total') on item 'ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTotal160'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Total']"
+				itempath="?/?/h4[@innertext>'Employees  - Total']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTotal160"
+				id="596fd64c5bf642f89e3a680ccaeb1aaf"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.286"
+			timeRelativeToTestModuleStartTime="00:09.286"
+			timeWallClock="03:34:45"
+			time="00:09.286"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTotal160' does contain the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div[1]/?/?/h4[@innertext>'Employees  - Total']"
+				itempath="?/?/h4[@innertext>'Employees  - Total']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CssVnm4clReactTabs.EmployeesTotal160"
+				id="596fd64c5bf642f89e3a680ccaeb1aaf"
+				timeout="90000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Employee_Status_Tab.cs"
+				codeline="119"
+				loglvl="Success"
+				itemindex="9">
+			</metainfo>
+		</item>
+	</activity>
+</report>

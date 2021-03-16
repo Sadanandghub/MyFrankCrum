@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.21s"
+		durationms="1214"
+		type="root"
+		rid="1648400975e5dcaa"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="SadanandG"
+		rxversion="9.3.2.0"
+		host="SADG-VM-W10"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="3/11/2021 6:42:14 AM"
+		timestampiso="2021-03-11T11:42:14"
+		endtime="3/11/2021 6:42:15 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.204"
+			timeRelativeToTestModuleStartTime="00:01.204"
+			timeWallClock="06:42:15"
+			time="00:01.204"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.315"
+			timeRelativeToTestModuleStartTime="00:01.315"
+			timeWallClock="06:42:15"
+			time="00:01.315"
+			level="Failure"
+			category="Module"
+			errimg="images_Employee_c5d70d77\Employee_c5d70d77_92b5811c_trace.jpg"
+			errthumb="images_Employee_c5d70d77\Employee_c5d70d77_92b5811c_trace_thumb.jpg">
+			<message>
+				Thread was being aborted.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.InputDispatcher.EnsureReady()
+   at Ranorex.Keyboard.UpdateLowLevelKeyboardHookCallback()
+   at Ranorex.Keyboard.set_PauseKey(Keys value)
+   at Ranorex.Keyboard.set_AbortKey(Keys value)
+   at Ranorex.Core.Testing.TestModuleRunner.RunStandalone(ITestModule module, String reportFilename, Boolean generateReport, String standaloneModuleName, CaseInsensitiveString guid)"
+				loglvl="Failure">
+			</metainfo>
+		</item>
+	</activity>
+</report>
