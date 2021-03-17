@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="6.9s"
+		durationms="6900"
+		type="root"
+		rid="2b542778e396a90"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="SadanandG"
+		rxversion="9.3.2.0"
+		host="SADG-VM-W10"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="3/11/2021 6:59:21 AM"
+		timestampiso="2021-03-11T11:59:21"
+		endtime="3/11/2021 6:59:28 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Validation">
+		<detail>
+			Validation
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.111"
+			timeRelativeToTestModuleStartTime="00:04.111"
+			timeWallClock="06:59:25"
+			time="00:04.111"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='Hi, User!') on item 'ApplicationUnderTest.HiUser'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[1]/div[@innertext='Hi, User!']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[1]/div[@innertext='Hi, User!']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.HiUser"
+				id="a3e326006f6d4dc7b21860c088d58d1d"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.173"
+			timeRelativeToTestModuleStartTime="00:06.173"
+			timeWallClock="06:59:27"
+			time="00:06.173"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.HiUser' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[1]/div[@innertext='Hi, User!']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[1]/div[@innertext='Hi, User!']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.HiUser"
+				id="a3e326006f6d4dc7b21860c088d58d1d"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="83"
+				loglvl="Success"
+				itemindex="0">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.284"
+			timeRelativeToTestModuleStartTime="00:06.284"
+			timeWallClock="06:59:27"
+			time="00:06.284"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeContains (InnerText&gt;'Pending Time Off Requests (0)') on item 'ApplicationUnderTest.PendingTimeOffRequests0'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[2]/div[1]/div[1]/?/?/div[@innertext>'Pending Time Off Requests']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[2]/div[1]/div[1]/?/?/div[@innertext>'Pending Time Off Requests']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.PendingTimeOffRequests0"
+				id="c56020f077cb4f3b959c9530964f1a71"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.389"
+			timeRelativeToTestModuleStartTime="00:06.389"
+			timeWallClock="06:59:27"
+			time="00:06.389"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.PendingTimeOffRequests0' does contain the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[2]/div[1]/div[1]/?/?/div[@innertext>'Pending Time Off Requests']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[2]/div[1]/div[1]/?/?/div[@innertext>'Pending Time Off Requests']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.PendingTimeOffRequests0"
+				id="c56020f077cb4f3b959c9530964f1a71"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="87"
+				loglvl="Success"
+				itemindex="1">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.499"
+			timeRelativeToTestModuleStartTime="00:06.499"
+			timeWallClock="06:59:28"
+			time="00:06.499"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='Time Off Calendar') on item 'ApplicationUnderTest.TimeOffCalendar'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[2]/?/?/h5[@innertext='Time Off Calendar']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[2]/?/?/h5[@innertext='Time Off Calendar']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.TimeOffCalendar"
+				id="b0975e3b721e4b0e87b0893b6f26a04c"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.590"
+			timeRelativeToTestModuleStartTime="00:06.590"
+			timeWallClock="06:59:28"
+			time="00:06.590"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.TimeOffCalendar' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[2]/?/?/h5[@innertext='Time Off Calendar']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[2]/?/?/h5[@innertext='Time Off Calendar']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.TimeOffCalendar"
+				id="b0975e3b721e4b0e87b0893b6f26a04c"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="91"
+				loglvl="Success"
+				itemindex="2">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.699"
+			timeRelativeToTestModuleStartTime="00:06.699"
+			timeWallClock="06:59:28"
+			time="00:06.699"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='Company News') on item 'ApplicationUnderTest.CompanyNews'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[3]/?/?/h5[@innertext>'Company News']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[3]/?/?/h5[@innertext>'Company News']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CompanyNews"
+				id="b76c8e54867240178805a419cfa206ac"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.790"
+			timeRelativeToTestModuleStartTime="00:06.790"
+			timeWallClock="06:59:28"
+			time="00:06.790"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'MyFrankCrum_EMPRepository.ApplicationUnderTest.CompanyNews' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='devmfc.frankcrum.com']//div[#'app']/div[2]/div[3]/div/div/div[3]/?/?/h5[@innertext>'Company News']"
+				itempath=".//div[#'app']/div[2]/div[3]/div/div/div[3]/?/?/h5[@innertext>'Company News']"
+				fullname="MyFrankCrum_EMPRepository.ApplicationUnderTest.CompanyNews"
+				id="b76c8e54867240178805a419cfa206ac"
+				timeout="60000"
+				codefile="C:\MyFrankCrum\MyFrankCrum_EMP\Validation.cs"
+				codeline="95"
+				loglvl="Success"
+				itemindex="3">
+			</metainfo>
+		</item>
+	</activity>
+</report>
